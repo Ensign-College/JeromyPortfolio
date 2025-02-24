@@ -1,0 +1,16 @@
+.container {
+  padding: 16px;
+}
+
+/* reset a */
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+/* reset ul */
+ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
